@@ -1,0 +1,14 @@
+﻿生成启动时间为 2014/9/12 21:11:35。
+     1>项目“F:\.NET program\Client\Client\Client.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\.NET program\Client\Debug\Client.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Client.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\.NET program\Client\Debug\Client.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Client.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Client.vcxproj -> F:\.NET program\Client\Debug\Client.exe
+     1>已完成生成项目“F:\.NET program\Client\Client\Client.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.20
